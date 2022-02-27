@@ -74,8 +74,8 @@ skills:
       - name: MySQL/SQL
         level: 60%
        
-      -name: Word/Excel/PowerPoint
-       level: 98%
+      - name: Word/Excel/PowerPoint
+        level: 98%
 
 footer: >
     Designed by <a href="https://github.com/TaniaStoupi" target="_blank" rel="nofollow">Tania</a>
